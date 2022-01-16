@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(92, 174, 241) ;
+    text-align: center;
+}
+h2 {
+    color:rgb(29, 125, 250);
+    font-family: fantasy;
+}
+
+.Navbar {
+    display : flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 300px;
+}
+
+#Nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(162, 243, 203);
+    border-radius: 10px;
+}
